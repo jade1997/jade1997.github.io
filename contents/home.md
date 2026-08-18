@@ -1,19 +1,22 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![jade_wanghy1997](https://img.shields.io/badge/jade_wanghy1997-github-blue?logo=github)](https://github.com/jade_wanghy1997)
 
-He is an incoming Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am a Postdoc in the School of Philosophy at Nanjing University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: jade_wanghy[at]nju.edu.cn
 
 #### Education
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022–2025
+PhD in Logic,
+Department of Philosophy, Peking University, under the supervision of Dr. Yanjing Wang, 2022–2026
 
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
+MPhil in Logic,
+Department of Philosophy, Peking University, under the supervision of Dr. Yanjing Wang, 2019–2022
+
+BA in Translation and Interpreting,
+School of English and International Studies, Beijing Foreign Studies University, 2015–2019
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Propositional Modal Logic, Non-classical Logic, First-order Modal Logic, Formal Semantics, Philosophy of Language, etc.

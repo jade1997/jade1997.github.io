@@ -1,22 +1,22 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: Haoyu Wang's Personal Homepage
+page-top-title: Haoyu Wang
+top-section-bg-text: Logic
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Haoyu Wang 2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/jade1997
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/jade_wanghy1997/jade_wanghy1997.github.io
 sections:
   - id: home
     nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
+    title: Haoyu Wang&ensp;|&ensp;王昊玉
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
