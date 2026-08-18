@@ -2,8 +2,8 @@ title: Haoyu Wang's Personal Homepage
 page-top-title: Haoyu Wang
 top-section-bg-text: Logic
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
+  - static/assets/background/background_0.png
+  - static/assets/background/background_1.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Haoyu Wang 2026. All Rights Reserved.'
