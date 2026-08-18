@@ -1,6 +1,6 @@
 
 
-[![jade_wanghy1997](https://img.shields.io/badge/jade_wanghy1997-github-blue?logo=github)](https://github.com/jade_wanghy1997)
+[![jade1997](https://img.shields.io/badge/jade1997-github-blue?logo=github)](https://github.com/jade1997)
 
 I am a Postdoc in the School of Philosophy at Nanjing University.
 
